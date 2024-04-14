@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Premium Widget",
+    "price": 49.99,
+    "brand": "WidgetMaster",
+    "made_by": "WidgetCorp"
+  },
+  {
+    "name": "Deluxe Gizmo",
+    "price": 79.99,
+    "brand": "GizmoTech",
+    "made_by": "GizmoWorks"
+  },
+  {
+    "name": "Ultimate Gadget",
+    "price": 129.99,
+    "brand": "GadgetGenius",
+    "made_by": "GadgetCo"
+  }
+  
+]
